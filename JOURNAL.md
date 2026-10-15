@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.33h | 2 |
+| Week 2 | Tier 1 | 10.43h | 2 |
 
 ## Contents
 
@@ -64,7 +64,7 @@ Maybe not as botched as this, but I think in the style of standard nickel tabs, 
 
 ### 2026-10-14 – # Finished the Project
 
-**6.55h**
+**6.65h**
 
 # Finished the Project
 
