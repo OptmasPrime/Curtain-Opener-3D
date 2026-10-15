@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.35h | 2 |
+| Week 2 | Tier 1 | 10.33h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-12 – # Started Modelling
 
-**2.8h**
+**3.78h**
 
 # Started Modelling
 
