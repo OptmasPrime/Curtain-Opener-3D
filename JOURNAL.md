@@ -93,6 +93,10 @@ Then finally I spent a good while researching the best materials to use on JLC3D
 
 ![Screenshot 2026-10-14 210508](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/f37983f3540db7e9ddc384e89b922b9f7b3473f04b8c386f1e7d92fd1cd48552.png)
 
+Also spent wayyy wayyyyy too long adding things up for the BOM, and seeing how cheap I could get things on Aliexpress.
+
+(all coming in at under $30 somehow - though the electronics had to go to the $60 bracket from Week1)
+
 ## tl;dr
 
 Got so invested in it that I basically modelled the entire thing in one day.
